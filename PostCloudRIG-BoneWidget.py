@@ -10,7 +10,7 @@ activeArmature = bpy.context.object
 #█▄█ ▄█ █▄█ █░▀█   █▄▀ █▀█ ░█░ █▀█
 
 fileName = 'asd.json'
-file_path = 'C:/Users/'
+file_path = 'D:\BongQi\RIG-Head\\'
 file_pathFIX = rf"{file_path}"
 
 filepathReplace = file_pathFIX.replace("/","\\")
